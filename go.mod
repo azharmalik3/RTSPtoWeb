@@ -10,7 +10,7 @@ require (
 	github.com/imdario/mergo v0.3.12
 	github.com/liip/sheriff v0.11.1
 	github.com/sirupsen/logrus v1.8.1
-	golang.org/x/net v0.0.0-20220531201128-c960675eff93
+	golang.org/x/net v0.0.0-20220630215102-69896b714898
 )
 
 require (
