@@ -53,7 +53,7 @@ func HTTPAPIServer() {
 		// public.GET("/pages/stream/edit/:uuid", HTTPAPIEditStream)
 		// public.GET("/pages/player/hls/:uuid/:channel", HTTPAPIPlayHls)
 		// public.GET("/pages/player/mse/:uuid/:channel", HTTPAPIPlayMse)
-		public.GET("/pages/player/webrtc/:uuid/:channel", HTTPAPIPlayWebrtc)
+		// public.GET("/pages/player/webrtc/:uuid/:channel", HTTPAPIPlayWebrtc)
 		// public.GET("/pages/multiview", HTTPAPIMultiview)
 		// public.Any("/pages/multiview/full", HTTPAPIFullScreenMultiView)
 		// public.GET("/pages/documentation", HTTPAPIServerDocumentation)
